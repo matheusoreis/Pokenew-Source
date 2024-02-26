@@ -1,0 +1,5 @@
+[History]
+1=#P0#=mb	#P1#=DrawCharacterCreate	#P2#=Pokenew/CreateCharacter_Window/DrawCharacterCreate	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20230507044215	#P7#=0	#P8#=40	.
+2=#P0#=mb	#P1#=DrawMapNpcPokemon	#P2#=Pokenew/modDirectX8/DrawMapNpcPokemon	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20230507044106	#P7#=0	#P8#=89	.
+3=#P0#=mb	#P1#=DrawPokemon	#P2#=Pokenew/modDirectX8/DrawPokemon	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20230507044047	#P7#=0	#P8#=0	.
+4=#P0#=mb	#P1#=DrawInventory	#P2#=Pokenew/Inventory_Window/DrawInventory	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20230507033521	#P7#=0	#P8#=9	.
